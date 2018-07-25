@@ -1,0 +1,7 @@
+My first layer
+=============
+
+This is my first custom layer for Yocto, that is going to be built for
+BeagleBone Black. This layer contains (will contain) a few unimportant
+and maybe even unrelated recipes. This is going on only for educational
+purposes. 
